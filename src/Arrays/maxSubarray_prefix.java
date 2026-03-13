@@ -1,4 +1,4 @@
-import java.util.*;
+package Arrays;
 
 public class maxSubarray_prefix {
 

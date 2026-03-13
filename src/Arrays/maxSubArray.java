@@ -1,3 +1,5 @@
+package Arrays;
+
 public class maxSubArray {
     public static int maxSubArray(int[] arr){
         int maxSum = Integer.MIN_VALUE;

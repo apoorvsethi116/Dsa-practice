@@ -1,5 +1,5 @@
-import java.util.Arrays;
-import java.util.Collections;
+package Arrays;
+
 public class sortingAlgos {
 
     public static void printArr(int arr[]) {

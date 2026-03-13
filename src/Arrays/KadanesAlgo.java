@@ -1,3 +1,4 @@
+package Arrays;
 
 public class KadanesAlgo {
     //accepts all negative array too
