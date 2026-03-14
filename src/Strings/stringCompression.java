@@ -2,7 +2,7 @@ package Strings;
 import java.util.*;
 
 
-public class stringCompression {
+public class stringCompression {// aaabbc converted to a3b2c
     public static void main(String[] args) {
         String str = new Scanner(System.in).nextLine();
         StringBuilder sb = new StringBuilder("");
