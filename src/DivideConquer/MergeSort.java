@@ -6,6 +6,16 @@ public class MergeSort {
             System.out.print(j + " ");
         }
     }
+    //merge sort on strings
+    public static void mergeSort_strings(String[] arr , int si , int ei){
+        int mid = si + (ei-si)/2;
+
+        mergeSort_strings(arr , si , mid);
+        mergeSort_strings(arr , mid+1 , ei);
+
+
+    }
+
     public static void merge(int[] arr , int si , int mid , int ei){
         int[] temp = new int[ei - si + 1];
         //left part iterator

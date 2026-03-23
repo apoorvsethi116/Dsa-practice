@@ -6,7 +6,7 @@ public class Sorted_RotatedArray {
         int j = nums.length - 1;
 
         while (i <= j) {
-            int mid = (i + j) / 2;
+            int mid = i + (j-1)/2;
 
             if (nums[mid] == target) {
                 return mid;
