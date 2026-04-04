@@ -1,6 +1,9 @@
 package BackTracking;
 
 public class Nqueens {
+
+    static int count = 0;
+
     public static boolean isSafe(char[][] chess ,int row , int col){
         //up
         for(int i = row-1; i>=0; i--){
@@ -35,6 +38,7 @@ public class Nqueens {
     public static void nQueens(char[][] chess , int row){
         int n = chess.length;
         if(row == n){
+            count ++;
             printBoard(chess , n);
             return;
         }
@@ -58,5 +62,6 @@ public class Nqueens {
             }
         }
         nQueens(chess , 0);
+        System.out.println("total ways : " + count);
     }
 }
