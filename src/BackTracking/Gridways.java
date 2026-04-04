@@ -31,7 +31,21 @@ public class Gridways {
     }
     public static void main(String[] args) {
         int n = 3, m = 4;
-        System.out.println(gridWays(0 , 0 ,  n , m));
-        System.out.println(optimalGridWays(n , m));
+//        System.out.println(gridWays(0 , 0 ,  n , m));
+//        System.out.println(optimalGridWays(n , m));
+
+        // Time Brute Force
+        long start1 = System.nanoTime();
+        int res1 = gridWays(0, 0, n, m);
+        long end1 = System.nanoTime();
+
+        // Time Optimal
+        long start2 = System.nanoTime();
+        int res2 = optimalGridWays(n, m);
+        long end2 = System.nanoTime();
+
+        System.out.println("--- Results for " + n + "x" + m + " Grid ---");
+        System.out.println("Brute Force: " + res1 + " | Time: " + (end1 - start1) + " ns");
+        System.out.println("Optimal Math: " + res2 + " | Time: " + (end2 - start2) + " ns");
     }
 }
