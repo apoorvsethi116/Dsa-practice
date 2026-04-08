@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayList;
 import java.util.*;
 public class Q3Sum {
     public static ArrayList<ArrayList<Integer>> threesum(ArrayList<Integer> num, int target) {
