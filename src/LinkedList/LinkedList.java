@@ -1,5 +1,5 @@
 package LinkedList;
-
+import java.util.*;
 public class LinkedList {
     public static class Node{
         int data;
@@ -42,6 +42,7 @@ public class LinkedList {
     public void addMiddle(int idx , int data){
         if(idx == 0){
             addFirst(data);
+            return;
         }
         Node temp = head;
         int i = 0;
@@ -56,6 +57,76 @@ public class LinkedList {
 
     }
 
+    public int removeFirst(){
+        if(size == 0){
+            System.out.println("list is empty");
+            return -1;
+        }
+        if(size == 1){
+            int val = head.data;
+            head =  tail = null;
+            size = 0;
+            return val;
+        }
+        int val = head.data;
+        head = head.next;
+        size--;
+
+        return val;
+    }
+
+    //more safer logic
+    public int removeLast() {
+        if (size == 0) return Integer.MIN_VALUE;
+        if (size == 1) {
+            int val = head.data;
+            head = tail = null;
+            size = 0;
+            return val;
+        }
+
+        // Using the loop from the video is safer than .next.next
+        Node prev = head;
+        for (int i = 0; i < size - 2; i++) {
+            prev = prev.next;
+        }
+
+        int val = prev.next.data; // or tail.data
+        prev.next = null;
+        tail = prev;
+        size--;
+        return val;
+    }
+
+    //self made logic
+//    public int removeLast(){
+//        if(size == 0 || head == null){
+//            System.out.println("ll is empty");
+//            return Integer.MIN_VALUE;
+//        }
+//        if(size == 1 || head == tail){
+//            int val = head.data;
+//            head = tail = null;
+//            size = 0;
+//            return val;
+//        }
+//
+//        Node temp = head;
+//
+//        while(temp.next.next != null){
+//            temp = temp.next;
+//        }
+//        int val = temp.next.data;
+//        tail = temp;
+//        temp.next = null;
+//        size--;
+//
+//        return val;
+//    }
+
+    public void reverse(){
+
+    }
     public void print(){
         if(head == null){
             System.out.println("Empty list!");
@@ -84,6 +155,10 @@ public class LinkedList {
         System.out.println("--------------------------------");
 
         ll.addMiddle(2 , 0);
+        ll.print();
+        System.out.println("size of ll: " + size);
+        ll.removeFirst();
+        //ll.removeLast();
         ll.print();
         System.out.println("size of ll: " + size);
 
