@@ -160,10 +160,8 @@ public class LinkedList {
     // ===============================
     public void reverse() {
         Node prev = null;
-        Node curr = head;
+        Node curr = tail =  head; // after reverse, old head becomes tail
         Node next;
-
-        tail = head; // after reverse, old head becomes tail
 
         while (curr != null) {
             next = curr.next;   // store next
@@ -173,6 +171,39 @@ public class LinkedList {
         }
 
         head = prev;
+    }
+
+    //find and remove nth node from end
+    //of the linked list #amazon question
+
+    public void removeNthFromEnd(int n){
+        int Vsize = 0;
+        int count = 1;
+        Node temp = head;
+        Node hand = head;
+
+        while(temp != null){
+            temp = temp.next;
+            Vsize++;
+        }
+
+        if(n == Vsize){
+            head = head.next;
+            size--;
+            return;
+        }
+        while(count != Vsize-n){
+            hand = hand.next;
+            count++;
+        }
+
+        hand.next = hand.next.next;
+        size--;
+
+    }
+
+    public boolean pallindrome(){
+
     }
 
     // Print LinkedList
@@ -216,9 +247,10 @@ public class LinkedList {
         System.out.println("After reverse:");
         ll.print();
 
-        ll.removeFirst();
-        ll.removeLast();
-
+//        ll.removeFirst();
+//        ll.removeLast();
+        System.out.println("Size: " + size);
+        ll.removeNthFromEnd(2);
         ll.print();
         System.out.println("Size: " + size);
     }
