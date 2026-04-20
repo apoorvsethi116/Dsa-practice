@@ -324,6 +324,54 @@ public class LinkedList {
         }
     }
 
+    public Node modReverse(Node head) {
+        Node prev = null;
+        Node curr = head;
+
+        while (curr != null) {
+            Node next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
+    public void zigZag() {
+        if (head == null || head.next == null) return;
+
+        // Step 1: Find mid
+        Node slow = head;
+        Node fast = head.next;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        // Step 2: Split
+        Node rightHead = slow.next;
+        slow.next = null;
+
+        // Step 3: Reverse right half
+        rightHead = modReverse(rightHead);
+
+        // Step 4: Merge alternately
+        Node left = head;
+        Node right = rightHead;
+
+        while (left != null && right != null) {
+            Node nextL = left.next;
+            Node nextR = right.next;
+
+            left.next = right;
+            right.next = nextL;
+
+            left = nextL;
+            right = nextR;
+        }
+    }
+
         // Print LinkedList
     public void print() {
         if (head == null) {
@@ -344,27 +392,27 @@ public class LinkedList {
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
 
-//        ll.addFirst(3);
-//        ll.addFirst(1);
-//        ll.addFirst(2);
-//        ll.addlast(1);
-//        ll.addlast(2);
+        ll.addFirst(3);
+        ll.addFirst(1);
+        ll.addFirst(2);
+        ll.addlast(1);
+        ll.addlast(2);
 
-        //cycle
-        head = new Node(0);
-        head.next = new Node(1);
-        head.next.next = new Node(2);
+//        //cycle
+//        head = new Node(0);
+//        head.next = new Node(1);
+//        head.next.next = new Node(2);
+//
+//        Node temp = new Node(3);
+//        head.next.next.next = temp;
+//        temp.next = new Node(4);
+//        temp.next.next = temp;
 
-        Node temp = new Node(3);
-        head.next.next.next = temp;
-        temp.next = new Node(4);
-        temp.next.next = temp;
 
-
-        System.out.println("has cycle? :" + ll.hasCycle() );
-
-        ll.removeCycle();
-        System.out.println("has cycle? :" + ll.hasCycle() );
+//        System.out.println("has cycle? :" + ll.hasCycle() );
+//
+//        ll.removeCycle();
+//        System.out.println("has cycle? :" + ll.hasCycle() );
 
         // Search tests
 //        System.out.println("Iterative Search (3): " + ll.iterativeSearch(3));
@@ -373,7 +421,9 @@ public class LinkedList {
         // Reverse
 //        ll.reverse();
 //        System.out.println("After reverse:");
-        //ll.print();
+        ll.print();
+        ll.zigZag();
+        ll.print();
 
 //        ll.removeFirst();
 //        ll.removeLast();
