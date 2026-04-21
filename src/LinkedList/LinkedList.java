@@ -395,8 +395,9 @@ public class LinkedList {
         ll.addFirst(3);
         ll.addFirst(1);
         ll.addFirst(2);
-        ll.addlast(1);
-        ll.addlast(2);
+        ll.addlast(7);
+        ll.addlast(9);
+        ll.addlast(6);
 
 //        //cycle
 //        head = new Node(0);
