@@ -3,28 +3,29 @@ name: Move LeetHub Submissions
 on:
   push:
     branches:
-      - main
+      - main  # Adjust if your default branch is different
 
 jobs:
   move-files:
     runs-on: ubuntu-latest
-    # This explicitly gives the script permission to write changes back to your repo
-    permissions:
-      contents: write
-      
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Move problem folders
         run: |
+          # Create the target directory if it doesn't exist
           mkdir -p "leetcode solutions"
-          # Find all directories in the root, excluding hidden ones and the target folder itself
-          find . -maxdepth 1 -type d ! -name '.' ! -name '.*' ! -name 'leetcode solutions' -exec mv {} "leetcode solutions/" \;
+          
+          # Find all problem folders matching the LeetCode 4-digit pattern (e.g., 0002-, 0020-)
+          # and move them into the target directory
+          find . -maxdepth 1 -type d -name '[0-9][0-9][0-9][0-9]-*' -exec mv {} "leetcode solutions/" \;
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add "leetcode solutions/"
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated: Moved LeetCode solutions to subfolder" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated: Moved LeetCode solutions to subfolder")
+          git pull --rebase origin main
+          git push
