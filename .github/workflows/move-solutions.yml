@@ -19,7 +19,8 @@ jobs:
       - name: Move problem folders
         run: |
           mkdir -p "leetcode solutions"
-          find . -maxdepth 1 -type d -name '[0-9][0-9][0-9][0-9]-*' -exec mv {} "leetcode solutions/" \;
+          # Find all directories in the root, excluding hidden ones and the target folder itself
+          find . -maxdepth 1 -type d ! -name '.' ! -name '.*' ! -name 'leetcode solutions' -exec mv {} "leetcode solutions/" \;
 
       - name: Commit and push changes
         run: |
