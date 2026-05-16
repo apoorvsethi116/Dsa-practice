@@ -8,24 +8,35 @@ on:
 jobs:
   move-files:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Move problem folders
         run: |
-          # Create the target directory if it doesn't exist
           mkdir -p "leetcode solutions"
-          
-          # Find all problem folders matching the LeetCode 4-digit pattern (e.g., 0002-, 0020-)
-          # and move them into the target directory
+
+          # Find directories in the root that start with exactly 4 digits
           find . -maxdepth 1 -type d -name '[0-9][0-9][0-9][0-9]-*' -exec mv {} "leetcode solutions/" \;
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add "leetcode solutions/"
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated: Moved LeetCode solutions to subfolder")
-          git pull --rebase origin main
-          git push
+
+          # Stage all changes (moves and new directory)
+          git add .
+
+          # Check if there are staged changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated: Moved LeetCode solutions to subfolder"
+            # Pull with rebase to sync with remote changes, then push
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes detected. Skipping commit and push."
+          fi
