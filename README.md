@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
@@ -95,4 +97,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
