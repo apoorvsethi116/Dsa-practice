@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
