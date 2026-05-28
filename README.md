@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -123,10 +124,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 ## Binary Search
 |  |
@@ -136,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
