@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
