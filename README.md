@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Tree
 |  |
 | ------- |
@@ -231,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0572-subtree-of-another-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
