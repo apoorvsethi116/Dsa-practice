@@ -72,6 +72,51 @@ public class TopView {
 
     }
 
+    public static ArrayList<Integer> bottomView(Tree root){
+
+        Queue<info> q = new LinkedList<>();
+        HashMap<Integer , Tree> map = new HashMap<>();
+        ArrayList<Integer> a = new ArrayList<>();
+        int min = 0 , max = 0;
+        q.add(new info(root , 0));
+        q.add(null);
+
+        while(!q.isEmpty()){
+            int level = q.size();
+
+            for(int i = 0; i<level; i++){
+                info currNode = q.remove();
+                if(currNode == null){
+                    if(q.isEmpty()){
+                        break;
+                    }else{
+                        q.add(null);
+                    }
+                }else{
+                    // Just update the map directly without checking if it already exists!
+                    map.put(currNode.hd, currNode.node);
+
+                    if(currNode.node.left != null){
+                        q.add(new info(currNode.node.left , currNode.hd-1));
+                        min = Math.min(min , currNode.hd-1);
+                    }
+                    if(currNode.node.right != null){
+                        q.add(new info(currNode.node.right , currNode.hd+1));
+                        max = Math.max(max , currNode.hd+1);
+                    }
+                }
+
+            }
+        }
+
+        for(int i = min; i<=max; i++){
+            a.add( map.get(i).data);
+        }
+
+        return a;
+
+    }
+
     public static void main(String[] args) {
         Tree root = new Tree(10);
 
@@ -88,6 +133,7 @@ public class TopView {
 
 
         System.out.println(topView(root));
+        System.out.println(bottomView(root));
 
     }
 }
