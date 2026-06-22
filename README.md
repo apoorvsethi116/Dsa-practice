@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
@@ -287,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
@@ -318,4 +324,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
