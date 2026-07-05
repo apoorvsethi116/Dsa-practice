@@ -1,0 +1,67 @@
+Initialize distance[]
+
+distance[source]=0
+
+Others=∞
+
+Put source into Priority Queue
+
+While PQ not empty
+
+    remove smallest distance node
+
+    if already visited
+
+        continue
+
+    mark visited
+
+    for every neighbour
+
+        relax edge
+
+        if updated
+
+            push into PQ
+
+
+
+
+
+Step 7: What is Relaxation?
+
+You'll hear this word a lot.
+
+Suppose
+
+Current node
+
+u
+
+Neighbor
+
+v
+
+Weight
+
+wt
+
+Current distance
+
+dist[u]
+
+Can we improve
+
+dist[v] ?
+
+We check
+
+if(dist[u]+wt < dist[v])
+
+Then
+
+dist[v]=dist[u]+wt
+
+This is called
+
+Relaxing an edge.
