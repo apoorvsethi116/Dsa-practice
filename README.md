@@ -4,6 +4,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0242-valid-anagram) |
@@ -404,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
