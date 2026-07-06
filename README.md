@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -395,12 +399,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1791-find-center-of-star-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
