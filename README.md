@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
