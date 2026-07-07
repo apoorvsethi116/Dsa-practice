@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0994-rotting-oranges](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
