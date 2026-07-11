@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1791-find-center-of-star-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
