@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
