@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0443-string-compression) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
