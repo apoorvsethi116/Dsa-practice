@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0090-subsets-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
