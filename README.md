@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0443-string-compression) |
