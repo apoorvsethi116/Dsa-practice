@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0733-flood-fill) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
