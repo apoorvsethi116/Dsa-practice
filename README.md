@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0877-stone-game) |
