@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0443-string-compression) |
