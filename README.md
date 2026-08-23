@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0877-stone-game) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0131-palindrome-partitioning) |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
