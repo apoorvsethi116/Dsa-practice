@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
@@ -600,10 +604,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0877-stone-game](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -616,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 ## Ternary Search
 |  |
 | ------- |
