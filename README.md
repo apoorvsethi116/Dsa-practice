@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
