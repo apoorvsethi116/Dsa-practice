@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0226-invert-binary-tree) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0733-flood-fill) |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0226-invert-binary-tree) |
@@ -562,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/apoorvsethi116/Dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
