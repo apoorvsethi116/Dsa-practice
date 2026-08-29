@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0051-n-queens) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
