@@ -649,4 +649,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
