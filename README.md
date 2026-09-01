@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
@@ -562,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
