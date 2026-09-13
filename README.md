@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0875-koko-eating-bananas) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0724-find-pivot-index) |
 | [1872-stone-game-viii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1872-stone-game-viii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
