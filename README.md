@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
