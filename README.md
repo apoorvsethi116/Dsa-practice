@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0771-jewels-and-stones) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/apoorvsethi116/Dsa-practice/tree/master/1340-jump-game-v) |
