@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0509-fibonacci-number) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/apoorvsethi116/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorvsethi116/Dsa-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
